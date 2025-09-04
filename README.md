@@ -19,7 +19,7 @@ const intro = {
 
 ### My Expertise 💻
 
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SASS](https://skillicons.dev/icons?i=sass) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![JS](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![SASS](https://skillicons.dev/icons?i=sass) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![JS](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Typescript](https://skillicons.dev/icons?i=Typescript) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 <br>
 
