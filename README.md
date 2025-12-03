@@ -5,7 +5,6 @@ const intro = {
   firstName: "Hossein",
   lastName: "Shavandi",
   age: 17,
-  birthDate: "August 4, 2008",
   interests: ["coding", "building websites", "debugging cool projects"],
   university: "Karaj",
   role: "Front-end Developer",
@@ -31,8 +30,10 @@ const intro = {
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn-ui-5A3E36?style=for-the-badge&logo=react&logoColor=white)
 ![Swiper](https://img.shields.io/badge/Swiper-%2332608F.svg?style=for-the-badge&logo=swiper&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%23050020.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 
 
 <br>
