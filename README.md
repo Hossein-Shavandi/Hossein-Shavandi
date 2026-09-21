@@ -4,7 +4,7 @@
 const intro = {
   firstName: "Hossein",
   lastName: "Shavandi",
-  age: 17,
+  age: 18,
   interests: ["coding", "building websites", "debugging cool projects"],
   university: "Karaj",
   role: "Front-end Developer",
